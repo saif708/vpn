@@ -16,7 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    ,
-    {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"vpn647158797.opengw.net","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"Japan","country":"Japan","image":"japan","ip":"public-vpn-108.opengw.net","active":"true","signal":"a"},
+     {"id":1, "file":1, "city":"United States","country":"United States","image":"unitedstates","ip":"vpn647158797.opengw.net","active":"true","signal":"a"}
   ]
 }
