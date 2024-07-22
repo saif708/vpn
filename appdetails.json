@@ -18,6 +18,6 @@
   "free":[
     {"id":0, "file":0, "city":"Japan","country":"Japan","image":"japan","ip":"public-vpn-108.opengw.net","active":"true","signal":"a"},
      {"id":1, "file":1, "city":"London","country":"United Kingdom","image":"unitedkingdom","ip":"57.128.176.137","active":"true","signal":"b"},
-     {"id":2, "file":2, "city":"United States","country":"United States","image":"unitedstates","ip":"54.174.213.197","active":"true","signal":"a"}
+     {"id":2, "file":2, "city":"United States","country":"United States","image":"unitedstates","ip":"54.198.164.55","active":"true","signal":"a"}
   ]
 }
